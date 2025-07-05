@@ -1,0 +1,5 @@
+train: C:/BDM/BSI model/images/train
+val: C:/BDM/BSI model/images/val
+
+nc: 4
+names: ['soldier', 'person', 'animal', 'drone']
